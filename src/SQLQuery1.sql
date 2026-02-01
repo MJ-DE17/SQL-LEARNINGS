@@ -1,0 +1,4 @@
+CREATE TABLE PRACTICE (
+id INT
+)
+
