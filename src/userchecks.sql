@@ -1,0 +1,4 @@
+SELECT
+    SUSER_NAME(),
+    USER_NAME(),
+    IS_SRVROLEMEMBER('sysadmin');
